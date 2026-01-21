@@ -1,1 +1,1 @@
-echo "Hello GitHub"
+Hello GitHub
